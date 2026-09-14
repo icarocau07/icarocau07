@@ -20,12 +20,6 @@ Meu objetivo é construir uma base sólida em Java e seguir carreira na área de
 
 Tenho interesse em oportunidades de estágio e início de carreira, onde eu possa aplicar meus conhecimentos, adquirir experiência e continuar evoluindo profissionalmente.
 
-## GitHub
-
-Este perfil será utilizado para compartilhar projetos acadêmicos e pessoais desenvolvidos durante minha formação.
-
-Os próximos projetos terão foco principalmente em Java, Spring Boot, APIs REST, banco de dados e desenvolvimento de software.
-
 ## Contato
 
 [www.linkedin.com/in/ícaro-cau-5aa391419](http://www.linkedin.com/in/ícaro-cau-5aa391419)
