@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**icarocau07/icarocau07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou desenvolvendo meus conhecimentos em programação e desenvolvimento de software.
 
-Here are some ideas to get you started:
+## Tecnologias que estou estudando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Java
+* JavaScript
+* HTML
+* CSS
+* SQL
+* Git e GitHub
+
+##Atualmente
+
+Estou desenvolvendo meus conhecimentos por meio dos estudos e da criação de projetos práticos.
+
+Em breve, meus principais projetos estarão disponíveis aqui no GitHub.
