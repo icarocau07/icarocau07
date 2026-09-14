@@ -1,50 +1,31 @@
 # Ícaro Cau
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, com interesse em desenvolvimento Back-end e foco em **Java**.
+Estudante de **Análise e Desenvolvimento de Sistemas** | Foco em **Java** | Desenvolvimento Back-end | Spring Boot | APIs REST | SQL | MongoDB | Git & GitHub
 
-Atualmente estou aprimorando meus conhecimentos em programação, banco de dados, desenvolvimento de APIs e boas práticas de desenvolvimento.
+Atualmente estou direcionando meus estudos para desenvolvimento Back-end, com foco principal em Java.
+
+Busco evoluir por meio de projetos práticos, aprimorando meus conhecimentos em desenvolvimento de software, banco de dados, APIs e organização de aplicações.
 
 ## Tecnologias
 
-* Java
-* JavaScript
-* HTML
-* CSS
-* SQL
-* MongoDB
-* Git
-* GitHub
+Java | JavaScript | HTML | CSS | SQL | MongoDB | Git | GitHub
 
-## Foco de estudo
+## Estudos atuais
 
-Tenho interesse em seguir carreira com **Java**, principalmente no desenvolvimento Back-end.
+Java | Programação Orientada a Objetos | Spring Boot | APIs REST | Banco de Dados | Desenvolvimento Back-end
 
-Atualmente estou aprofundando meus conhecimentos em:
+## Objetivo
 
-* Programação Orientada a Objetos
-* APIs REST
-* Spring Boot
-* Banco de dados
-* Estrutura e organização de projetos
+Meu objetivo é construir uma base sólida em Java e seguir carreira na área de desenvolvimento Back-end.
 
-## Objetivo profissional
+Tenho interesse em oportunidades de estágio e início de carreira, onde eu possa aplicar meus conhecimentos, adquirir experiência e continuar evoluindo profissionalmente.
 
-Busco desenvolver experiência prática e construir um portfólio voltado para desenvolvimento de software.
+## GitHub
 
-Tenho interesse em oportunidades de **estágio e início de carreira**, principalmente nas áreas de **Java e desenvolvimento Back-end**.
+Este perfil será utilizado para compartilhar projetos acadêmicos e pessoais desenvolvidos durante minha formação.
 
-## Projetos
-
-Este perfil será atualizado com projetos acadêmicos e pessoais desenvolvidos durante minha formação.
-
-Os próximos projetos terão foco principalmente em:
-
-* Java
-* Spring Boot
-* APIs REST
-* Banco de dados
-* Desenvolvimento Web
+Os próximos projetos terão foco principalmente em Java, Spring Boot, APIs REST, banco de dados e desenvolvimento de software.
 
 ## Contato
 
-LinkedIn: adicione seu link aqui
+[www.linkedin.com/in/ícaro-cau-5aa391419](http://www.linkedin.com/in/ícaro-cau-5aa391419)
