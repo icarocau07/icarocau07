@@ -2,26 +2,27 @@
 
 Estudante de **Análise e Desenvolvimento de Sistemas** na Fatec Tatuí, com formação técnica em **Desenvolvimento de Sistemas**.
 
-Java | Desenvolvimento Back-end | Spring Boot | APIs REST | SQL | MongoDB | JavaScript | Git & GitHub
+HTML | CSS | JavaScript | MySQL | React Native | Testes de Software | Git & GitHub
 
-Atualmente direciono meus estudos para o desenvolvimento Back-end, com foco em Java e no desenvolvimento de aplicações utilizando Spring Boot, APIs REST e bancos de dados.
+Atualmente busco aprimorar meus conhecimentos em desenvolvimento de software por meio dos estudos e de projetos acadêmicos.
 
-Durante minha formação, tive contato com desenvolvimento Web, desenvolvimento Mobile, bancos de dados, testes de software e Business Intelligence.
+Tenho maior experiência com desenvolvimento Web, banco de dados e desenvolvimento Mobile, além de conhecimentos em testes de software e Power BI.
 
 ## Tecnologias
 
-Java | Spring Boot | JavaScript | HTML | CSS | SQL | MySQL | MongoDB | React Native | Git | GitHub
+HTML | CSS | JavaScript | MySQL | React Native | Git | GitHub | Power BI
 
 ## Atualmente estudando
 
-Java | Programação Orientada a Objetos | Spring Boot | APIs REST | Banco de Dados | Desenvolvimento Back-end
+Desenvolvimento de Software | Java | Banco de Dados | Programação Orientada a Objetos
 
 ## Objetivo profissional
 
-Busco uma oportunidade de estágio ou início de carreira na área de desenvolvimento de software, com interesse principalmente em desenvolvimento Back-end utilizando Java.
+Busco uma oportunidade de estágio na área de tecnologia e desenvolvimento de software, onde possa aplicar os conhecimentos adquiridos durante minha formação e continuar evoluindo profissionalmente.
 
-Este perfil será utilizado para publicar projetos acadêmicos e pessoais desenvolvidos durante minha formação.
+Tenho interesse em aprofundar meus conhecimentos em Java e desenvolvimento Back-end ao longo da minha formação.
 
 ## Contato
 
-LinkedIn: https://www.linkedin.com/in/ícaro-cau-5aa391419
+LinkedIn: www.linkedin.com/in/ícaro-cau-5aa391419
+
