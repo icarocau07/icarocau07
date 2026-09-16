@@ -2,7 +2,7 @@
 
 Estudante de **Análise e Desenvolvimento de Sistemas** na Fatec Tatuí, com formação técnica em **Desenvolvimento de Sistemas**.
 
-HTML | CSS | JavaScript | MySQL | React Native | Testes de Software | Git & GitHub
+Desenvolvimento Web & Mobile | React | React Native | JavaScript | SQL | Arduino | ESP32
 
 Atualmente busco aprimorar meus conhecimentos em desenvolvimento de software por meio dos estudos e de projetos acadêmicos.
 
@@ -10,7 +10,7 @@ Tenho maior experiência com desenvolvimento Web, banco de dados e desenvolvimen
 
 ## Tecnologias
 
-HTML | CSS | JavaScript | MySQL | React Native | Git | GitHub | Power BI
+React | React Native | JavaScript | SQL | Arduino | ESP32
 
 ## Atualmente estudando
 
