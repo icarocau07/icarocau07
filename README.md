@@ -10,9 +10,9 @@ Meu objetivo é continuar evoluindo profissionalmente, aprender com novos desafi
 
 ## Objetivo profissional
 
-Busco uma oportunidade de estágio na área de tecnologia e desenvolvimento de software, onde possa aplicar os conhecimentos adquiridos durante minha formação e continuar evoluindo profissionalmente.
+Busco uma oportunidade de estágio nas áreas de desenvolvimento de software ou análise de dados, onde possa aplicar os conhecimentos adquiridos durante minha formação, desenvolver novas habilidades e continuar evoluindo profissionalmente.
 
-Tenho interesse em aprofundar meus conhecimentos em Java e desenvolvimento Back-end ao longo da minha formação.
+Tenho interesse em aprofundar meus conhecimentos em Java, desenvolvimento Back-end e análise de dados, contribuindo para a criação de soluções e para a tomada de decisões baseada em dados.
 
 ---
 
@@ -28,6 +28,10 @@ Tenho interesse em aprofundar meus conhecimentos em Java e desenvolvimento Back-
   <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   &nbsp;
   <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logoColor=white" alt="SQL" />
 </p>
 
 
