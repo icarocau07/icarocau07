@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **Fatec Tatuí**.
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na Fatec Tatuí.
 
 Atualmente, busco ampliar meus conhecimentos por meio dos estudos e de projetos acadêmicos, desenvolvendo minhas habilidades e adquirindo experiência prática na área de tecnologia.
 
